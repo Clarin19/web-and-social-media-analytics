@@ -24,14 +24,18 @@ appropriate.
 
 ➢ Do the three campaigns perform differently, and what could these differences mean?
 What measurements did you use to measure each campaign’s performance?
+
 ➢ Do the users from different platforms behave differently? There were concerns that
 some platforms struggled at a particular stage of the process, can you find these
 stages?
+
 ➢ How does performance of users coming via adverts compare with those that came
 via social media shares? How about those who came to the site directly, or via
 search engine?
+
 ➢ Which blog converts better? (so that you know you should write more of similar ones
 in the future)
+
 ➢ Make sure that if you mention a measure (e.g. bounce rate), you also explain it in
 your own words somewhere in your report (perhaps in a designated glossary
 section).
